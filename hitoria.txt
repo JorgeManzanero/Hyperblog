@@ -1,9 +1,6 @@
-Esta es la historia
+Esta es la historia de Jorge Manzanero
+
+y esta experimentando con git y los commits, de hecho la cague y el archivo se llama hitoria...
 
 
-de mi aprendizaje en platzi y mas vale ya sea importante
-
-sdfsad
-fas
-df
-sa
+pero todo va de lujo
