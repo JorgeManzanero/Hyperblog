@@ -6,3 +6,5 @@ y esta experimentando con git y los commits, de hecho la cague y el archivo se l
 pero todo va de lujo, que bueno que va de esta manera
 
 hice un reset jhace ratp entonces este es como una version alterna 
+
+ya estoy en la clase 12 de git, esta interesante como guardan los nerds los datos
