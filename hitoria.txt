@@ -3,4 +3,6 @@ Esta es la historia de Jorge Manzanero
 y esta experimentando con git y los commits, de hecho la cague y el archivo se llama hitoria...
 
 
-pero todo va de lujo
+pero todo va de lujo, que bueno que va de esta manera
+
+hice un reset jhace ratp entonces este es como una version alterna 
