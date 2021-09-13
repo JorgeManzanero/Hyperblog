@@ -1,5 +1,14 @@
 body{
-    color:blue;
-    text-align: center;
+    color:chartreuse ;
+    text-align: left;
     font-family: Arial ;
+}
+
+#Container
+{
+    width: 80%;
+    padding: 1em ;
+    border: 1px solid ;
+    margin : 0 auto;
+
 }
